@@ -2,10 +2,14 @@
 *.conf
 *.dmg
 *.fd
+*.fixed
 *.img
 *.iso
 *.lock
+!flake.lock
 *.log
+*.markdownlint.jsonc
+*.markdownlint.yaml
 *.msi
 *.part
 *.permall
@@ -16,3 +20,4 @@
 *.sock
 *.xml
 *.zs-old
+.direnv/
