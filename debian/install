@@ -1,4 +1,4 @@
 chunkcheck usr/bin
 quickemu usr/bin
 quickget usr/bin
-windowskey usr/bin
+quickreport usr/bin
